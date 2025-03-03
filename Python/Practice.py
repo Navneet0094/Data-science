@@ -1,4 +1,0 @@
-Nav
-neet 
-sha
-rma
