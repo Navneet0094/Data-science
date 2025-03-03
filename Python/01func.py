@@ -1,10 +1,14 @@
-# positional arguments
-def printnum(*args):
-    for i in args:
-        print(i)
-printnum(1,2,3,4,5,'navneet')
+# # positional arguments
+# def printnum(*args):
+#     for i in args:
+#         print(i)
+# printnum(1,2,3,4,5,'navneet')
 
-# keyword arguments
-def printnum(**kwargs):
-    for i in kwargs:
-        print(i,kwargs[i])
+# # keyword arguments
+# def printnum(**kwargs):
+#     for i in kwargs:
+#         print(i,kwargs[i])
+a,b = 0.3,0.2
+print(a-b)
+
+
