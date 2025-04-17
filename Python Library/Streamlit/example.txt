@@ -1,0 +1,5 @@
+New line of text
+New line of text
+New line of text in example.txt
+New line of text in example.txt
+New line of text in example
